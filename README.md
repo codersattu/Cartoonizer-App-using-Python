@@ -18,4 +18,5 @@ This is a Python-based GUI application that allows users to convert any selected
 ### 1️⃣ Install Dependencies
 Make sure you have Python installed, then install the required libraries:
 
-```bash pip install opencv-python numpy pillow tk tqdm
+```bash
+pip install opencv-python numpy pillow tk tqdm
