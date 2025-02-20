@@ -29,5 +29,29 @@ cd Cartoonizer-App
 ```
 ### 3️⃣ Run the Application
 ```bash
-python cartoonizer.py
+jupyter notebook cartoonizer.ipynb
 ```
+
+## 🏗️ Built With
+* Python 🐍
+* OpenCV 👀 (Image Processing)
+* Jupyter Notebook 📓 (Interactive UI)
+* ipywidgets 🔄 (UI Widgets)
+* Pillow 🖼️ (Image Handling)
+* tqdm ⏳ (Progress Bar)
+
+## 🤝 Contributing
+Want to improve this project? Follow these steps:
+
+1. Fork the repo
+2. Create a new branch (git checkout -b feature-branch)
+3. Commit changes (git commit -m "Added new feature")
+4. Push (git push origin feature-branch)
+5. Open a Pull Request 🚀
+
+## 👨‍💻 Author
+[Abhishek Satpathy]
+🔗 GitHub: codersattu
+📧 Email: coffee@abhisat.com
+
+## ⭐ If you like this project, give it a star on GitHub! ⭐
