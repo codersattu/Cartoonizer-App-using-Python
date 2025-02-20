@@ -20,3 +20,14 @@ Make sure you have Python installed, then install the required libraries:
 
 ```bash
 pip install opencv-python numpy pillow tk tqdm
+```
+### 2️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/Cartoonizer-App.git
+cd Cartoonizer-App
+```
+### 3️⃣ Run the Application
+```bash
+python cartoonizer.py
+```
